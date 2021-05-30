@@ -2,7 +2,7 @@
 - 👀 I’m interested in development skill in computer science
 - 🌱 I’m currently learning github
 - 💞️ I’m looking to collaborate on this project of learning and sharing information
-- 📫 How to reach me ...
+- 📫 How to reach me facebook.com, seek.com.
 
 <!---
 leonildanavarro/leonildanavarro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
